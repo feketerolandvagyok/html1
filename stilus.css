@@ -1,0 +1,28 @@
+body{
+    background-image: url(alap.jpg);
+    color:#333333; 
+}
+.kozep{
+  margin: 0 auto 0 auto;
+  width: 800px;
+}
+.p{	
+    margin-left: 50px;    
+}
+.jobb{
+   float: right;
+   width: 10%;   
+}
+.line{
+    height: 10px;
+    background-color:#555555;
+}
+li{
+    margin-left: 100px;
+}
+hr{
+    color: #555555;
+}
+h1{
+	text-align: center;		
+}
